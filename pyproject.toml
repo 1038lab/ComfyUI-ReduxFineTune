@@ -1,0 +1,23 @@
+[project]
+name = "ComfyUI-ReduxFineTune"
+description = "ComfyUI-ReduxFineTune is a custom node for ComfyUI that enables advanced style fine-tuning using the Flux Redux approach. It offers multiple unified fusion modes for precise and consistent control over style transfer, allowing users to fine-tune image styles with high flexibility and detail."
+version = "1.0.0"
+license = {file = "LICENSE"}
+authors = [
+  { name = "1038lab" }
+]
+license = { text = "GPL-3.0" }
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+  "torch"
+]
+
+[project.urls]
+Repository = "https://github.com/1038lab/ComfyUI-ReduxFineTune"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "ComfyUI-ReduxFineTune"
+Icon = "
