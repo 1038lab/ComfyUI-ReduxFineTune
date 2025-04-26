@@ -4,6 +4,8 @@
 
 ComfyUI-ReduxFineTune is a custom node for ComfyUI that enables advanced style fine-tuning using the Flux Redux approach. It offers multiple unified fusion modes for precise and consistent control over style transfer, allowing users to fine-tune image styles with high flexibility and detail.
 
+![ReducFineTune_Nodes](https://github.com/user-attachments/assets/68e4762d-c1a5-4853-8488-ed65c53e2329)
+
 **Key Features:**
 - Multiple fusion modes for a variety of style transfer needs, from subtle to extreme.
 - Precise fusion strength control via sliders for fine-grained adjustment.
@@ -12,9 +14,12 @@ ComfyUI-ReduxFineTune is a custom node for ComfyUI that enables advanced style f
 - **SUPER REDUX** is a unique enhancement feature of this node. When enabled, significantly boosting style strength and detail richness—ideal for users seeking the most dramatic style effects. 
 
 ## Nodes Overview
+![ComfyUI-ReduxFineTune_](https://github.com/user-attachments/assets/4d324034-d8bc-42b1-863d-b454e9820e53)
 
 ### ReduxFineTune
 The **ReduxFineTune** node provides a simple and user-friendly tool for style fusion, requiring only the core parameters to efficiently blend text and image features. It features a precise fusion strength slider (0.1-2.0) for fine control over the style intensity. This node is ideal for most standard style fine-tuning scenarios.
+
+![reduxfinetune_sample2](https://github.com/user-attachments/assets/880648ac-0a96-4415-aa83-ea4e1f35850c)
 
 ### ReduxFineTuneAdvanced
 The **ReduxFineTuneAdvanced** node is designed for advanced users, offering support for cropping, masking, region-wise fusion, and fine-grained control over various style strengths and details. This node is suitable for scenarios that demand higher customization and control over style transfer.
