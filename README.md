@@ -8,7 +8,7 @@ $$\textcolor{red}{\Huge \text{If this custom node helps you or you like my work,
 $$\textcolor{red}{\Huge \text{It's a great encouragement for my efforts!}}$$
 
 ## News & Updates
-- **2025/05/04**: Update ComfyUI-ComfyUI-ReduxFineTune to **v1.1.0** ( [update.md](https://github.com/1038lab/ComfyUII-ReduxFineTune/blob/main/update.md#v110-20250504) )
+- **2025/05/04**: Update ComfyUI-ReduxFineTune to **v1.1.0** ( [update.md](https://github.com/1038lab/ComfyUII-ReduxFineTune/blob/main/update.md#v110-20250504) )
 
 **Key Features:**
 - Multiple fusion modes for a variety of style transfer needs, from subtle to extreme.
