@@ -27,7 +27,7 @@ $$\textcolor{red}{\Huge \text{It's a great encouragement for my efforts!}}$$
 
 The **ReduxFineTune** node provides a simple and user-friendly tool for style fusion, requiring only the core parameters to efficiently blend text and image features. It features a precise fusion strength slider (0.1-2.0) for fine control over the style intensity. This node is ideal for most standard style fine-tuning scenarios.
 
-![reduxfinetune_sample2](https://github.com/user-attachments/assets/880648ac-0a96-4415-aa83-ea4e1f35850c)
+![reduxfinetune_sample](https://github.com/user-attachments/assets/c13e5fd1-b16f-4d0d-8208-c14c7c0f3b11)
 
 ### ReduxFineTuneAdvanced
 The **ReduxFineTuneAdvanced** node is designed for advanced users, offering support for cropping, masking, region-wise fusion, and fine-grained control over various style strengths and details. This node is suitable for scenarios that demand higher customization and control over style transfer.
