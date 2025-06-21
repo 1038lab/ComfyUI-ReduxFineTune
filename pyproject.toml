@@ -1,7 +1,7 @@
 [project]
 name = "ComfyUI-ReduxFineTune"
 description = "ComfyUI-ReduxFineTune is a custom node for ComfyUI that enables advanced style fine-tuning using the Flux Redux approach. It offers multiple unified fusion modes for precise and consistent control over style transfer, allowing users to fine-tune image styles with high flexibility and detail."
-version = "1.1.0"
+version = "1.2.0"
 license = {file = "LICENSE"}
 
 dependencies = ["torch"]
