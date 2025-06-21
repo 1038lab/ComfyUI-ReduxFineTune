@@ -4,9 +4,6 @@
 
 ComfyUI-ReduxFineTune is a custom node for ComfyUI that enables advanced style fine-tuning using the Flux Redux approach. It offers multiple unified fusion modes for precise and consistent control over style transfer, allowing users to fine-tune image styles with high flexibility and detail.
 
-$$\textcolor{red}{\Huge \text{If this custom node helps you or you like my work, please give me ⭐ on this repo!}}$$  
-$$\textcolor{red}{\Huge \text{It's a great encouragement for my efforts!}}$$
-
 ## News & Updates
 - **2025/06/21**: Update ComfyUI-ReduxFineTune to **v1.2.0** ( [update.md](https://github.com/1038lab/ComfyUI-ReduxFineTune/blob/main/update.md#v120-20250621) )
 - **2025/05/04**: Update ComfyUI-ReduxFineTune to **v1.1.0** ( [update.md](https://github.com/1038lab/ComfyUI-ReduxFineTune/blob/main/update.md#v110-20250504) )
@@ -96,3 +93,7 @@ This project is licensed under the GPL-3.0 License - see the LICENSE file for de
 ## Acknowledgments
 
 Thanks to all contributors and users who have supported the development of ComfyUI-ReduxFineTune.
+
+$$\textcolor{red}{\Huge \text{If this custom node helps you or you like my work, please give me ⭐ on this repo!}}$$  
+$$\textcolor{red}{\Huge \text{It's a great encouragement for my efforts!}}$$
+
