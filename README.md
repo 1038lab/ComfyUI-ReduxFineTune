@@ -8,6 +8,7 @@ $$\textcolor{red}{\Huge \text{If this custom node helps you or you like my work,
 $$\textcolor{red}{\Huge \text{It's a great encouragement for my efforts!}}$$
 
 ## News & Updates
+- **2025/06/21**: Update ComfyUI-ReduxFineTune to **v1.2.0** ( [update.md](https://github.com/1038lab/ComfyUI-ReduxFineTune/blob/main/update.md#v120-20250621) )
 - **2025/05/04**: Update ComfyUI-ReduxFineTune to **v1.1.0** ( [update.md](https://github.com/1038lab/ComfyUI-ReduxFineTune/blob/main/update.md#v110-20250504) )
 
 **Key Features:**
